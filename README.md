@@ -104,3 +104,9 @@ CSS;
 Aprendendo JS.
 
 <hr>
+
+## Participações em Eventos
+
+N/A (ainda :D)
+
+<hr>
