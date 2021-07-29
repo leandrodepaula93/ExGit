@@ -22,3 +22,35 @@
 de Sistemas.
 
 <hr>
+## Experiência Profissional
+
+<b>Nome da Empresa:</b> Plusval Agroavícola LTDA
+
+<b>Cargo que ocupava:</b> Assistente de TI
+
+<b>Admissão:</b> Janeiro de 2021 <b>saída:</b> atualmente
+
+<b>Funções/Responsabilidades: Manutenção e configuração de computadores, suporte aos 
+colaboradores, configração de impressoras na rede.
+
+<b>Nome da Empresa:</b> Fagundes Cristovam & Cia LTDA
+
+<b>Cargo que ocupava:</b> Auxiliar Administrativo
+
+<b>Admissão:</b> Agosto de 2017 <b>saída:</b> Janeiro de 2021
+
+<b>Funções/Responsabilidades:</b> Conferência de Notas Fiscais, auxílio na contabilidade como
+lançamento de extratos bancários no sistema Domínio Contábil, atendimento ao cliente,
+orçamento de eventos, emissão de pedidos, conferência de entrada e saída de mercadoria,
+entre outras funções.
+
+
+<b>Nome da Empresa:</b> Madeireira de Paula LTDA
+
+<b>Cargo que ocupava:</b> Auxiliar administrativo, produção e empilhador
+
+<b>Admissão:</b> Julho de 2010 <b>saída:</b> Novembro 2015
+
+<b>Funções/Responsabilidades:</b> Elaboração de planilhas de orçamentos e custos, recebimento e
+controle de pedidos realizados pelo cliente, manutenção de computadores, controle e emissão
+de NF-e, produção de pallet, operador de empilhadeira
