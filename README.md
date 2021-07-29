@@ -53,4 +53,44 @@ entre outras funções.
 
 <b>Funções/Responsabilidades:</b> Elaboração de planilhas de orçamentos e custos, recebimento e
 controle de pedidos realizados pelo cliente, manutenção de computadores, controle e emissão
-de NF-e, produção de pallet, operador de empilhadeira
+de NF-e, produção de pallet, operador de empilhadeira.
+
+<hr>
+
+## Cursos Complementares
+
+<b>Descrição do curso:</b> Web Design Completo
+
+<b>Escola/Instituto:</b> Origamid
+
+<b>Duração do curso:</b> Vídeo - 44 horas (completo)
+
+
+<b>Descrição do curso:</b> Bootstrap 4
+
+<b>Escola/Instituto:</b> Origamid
+
+<b>Duração do curso:</b> Vídeo – 10 horas (completo)
+
+
+<b>Descrição do curso:</b> CSS Flexbox
+
+<b>Escola/Instituto:</b> Origamid
+
+<b>Duração do curso:</b> Vídeo – 6 horas (completo)
+
+
+<b>Descrição do curso:</b> Idioma (Inglês)
+
+<b>Escola/Instituto:</b> Rhavi Carneiro’s Fluency Academy
+
+<b>Duração do curso:</b> Em andamento
+
+
+<b>Descrição do curso:</b> Montagem e manutenção de computadores e redes
+
+<b>Escola/Instituto:</b> ETEC Jorge Street
+
+<b>Duração do curso:</b> 12 meses
+
+<hr>
